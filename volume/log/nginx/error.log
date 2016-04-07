@@ -1,2 +1,0 @@
-2016/04/06 08:22:48 [error] 12#12: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 120.125.116.25, server: , request: "GET /wp-admin/install.php HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "120.125.115.6"
-2016/04/06 08:22:54 [error] 12#12: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 120.125.116.25, server: , request: "GET /wordpress HTTP/1.1", upstream: "fastcgi://172.17.0.3:9000", host: "120.125.115.6"

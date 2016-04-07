@@ -1,2 +1,0 @@
-120.125.116.25 - - [06/Apr/2016:08:22:48 +0000] "GET /wp-admin/install.php HTTP/1.1" 502 568 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36"
-120.125.116.25 - - [06/Apr/2016:08:22:54 +0000] "GET /wordpress HTTP/1.1" 502 568 "-" "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36"
